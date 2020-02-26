@@ -1,0 +1,11 @@
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda.deps.json
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda.runtimeconfig.json
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda.runtimeconfig.dev.json
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda.dll
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/bin/Debug/netcoreapp3.1/algoritmos-busqueda.pdb
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/obj/Debug/netcoreapp3.1/algoritmos-busqueda.csprojAssemblyReference.cache
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/obj/Debug/netcoreapp3.1/algoritmos-busqueda.AssemblyInfoInputs.cache
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/obj/Debug/netcoreapp3.1/algoritmos-busqueda.AssemblyInfo.cs
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/obj/Debug/netcoreapp3.1/algoritmos-busqueda.dll
+/home/nzavalas/Documentos/personal/IA/programas/algoritmos-busqueda/obj/Debug/netcoreapp3.1/algoritmos-busqueda.pdb

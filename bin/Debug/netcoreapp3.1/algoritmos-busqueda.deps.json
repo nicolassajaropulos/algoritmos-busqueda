@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "algoritmos-busqueda/1.0.0": {
+        "runtime": {
+          "algoritmos-busqueda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmos-busqueda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
