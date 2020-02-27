@@ -8,13 +8,13 @@ namespace algoritmos_busqueda_dfs {
         List<int[]> offspring;
         Stack<int[]> frontier = new Stack<int[]>();
 
-        static void Main(string[] args) {
+        /* static void Main(string[] args) {
             DFS reinas = new DFS();
             reinas.frontier.Push(reinas.currState);
-            Console.WriteLine(string.Join(", ", reinas.breadthFirst(reinas.frontier, 0)));
-        }
+            Console.WriteLine(string.Join(", ", reinas.depthFirsSearch(reinas.frontier, 0)));
+        } */
 
-        int[] breadthFirst(Stack<int[]> frontier, int atacksGoal) {
+        int[] depthFirsSearch(Stack<int[]> frontier, int atacksGoal) {
 
             currState = frontier.Pop();
 
@@ -26,7 +26,7 @@ namespace algoritmos_busqueda_dfs {
                 foreach(int[] mov in offspring) {
                     frontier.Push(mov);
                 }
-                return breadthFirst(frontier, atacksGoal);
+                return depthFirsSearch(frontier, atacksGoal);
             }
         }
 
