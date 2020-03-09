@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace algoritmos_busqueda_dfs {
     class IDPFS {
 
-        static void Main(string[] args) {
+        /* static void Main(string[] args) {
             DLS reinas = new DLS();
 
             bool hasResult = false;
@@ -16,6 +16,6 @@ namespace algoritmos_busqueda_dfs {
                 hasResult = reinas.depthLimitedSearch(reinas.frontier, limit, 0);
                 limit += 2;
             }
-        }
+        } */
     }
 }
